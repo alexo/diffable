@@ -1,0 +1,1 @@
+window['diffable']['applyAndExecute']('{{DJS_RESOURCE_IDENTIFIER}}', {{DJS_DIFF_CONTENT}});
